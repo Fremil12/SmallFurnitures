@@ -5,14 +5,6 @@
   { "strName" : "ACTBedSmallDestroy", "aCOs" : [ "MSDestroyBedSmall=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
 
   {
-    "strName" : "ItmOKLGFurnishingsKioskInv",
-    "aCOs"    : [
-    ],
-    "aLoots"  : [
-      "ItmBedSmallLoose=1.0x6"
-    ]
-  },
-  {
     "strName" : "ItmRandomDamagedParts",
     "aCOs"    : [
     ],
@@ -20,7 +12,61 @@
       "ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1"
     ],
     "strType" : "item"
+  },
+  {
+    "strName" : "ItmOKLGFurnishingsKioskInv",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+      "ItmTable01Loose=1.0x6",
+      "ItmTable02Loose=1.0x6",
+      "ItmChair01Loose=1.0x21",
+      "ItmChair02Loose=1.0x21",
+      "ItmChairStrap01Loose=1.0x21",
+      "ItmElectricalBox01Loose=1.0x21",
+      "ItmTerminal01Loose=1.0x12",
+      "ItmJukebox01Loose=1.0x6",
+      "ItmTV01Loose=1.0x6",
+      "ItmSignNeon01Loose=1.0x6",
+      "ItmLitWall1x0OffLooseCustom=1.0x20",
+      "ItmVent02Loose=1.0x6",
+      "ItmHatch01Loose=1.0x6",
+      "ItmBed02Loose=1.0x12",
+      "ItmBed01Loose=1.0x6",
+      "ItmBedMedical01Loose=1.0x6",      
+      "ItmTreadmill01Loose=1.0x2",
+      "ItmStrengthTrainer01Loose=1.0x2",
+      "ItmArcadeGame01Loose=1.0x2",
+      "ItmSink01Loose=1.0x6",
+      "ItmSink01LooseNew=1.0x6",
+      "ItmToilet01Loose=1.0x6",
+      "ItmFridge01Loose=1.0x6",
+      "ItmHeater01OffLoose=1.0x6",
+      "ItmCooler01OffLoose=1.0x6",
+      "ItmAtmoScrubber01OffLoose=1.0x6",
+      "ItmAtmoScrubber02OffLoose=1.0x6",
+      "ItmAlarmContaminantsOffLoose=1.0x10",
+      "ItmFusionABLWall01Loose=1.0x5",
+      "ItmRandomDecorItem=1.0x5",
+      "ItmWallWindow1x1Loose=1.0x21",
+      "ItmRandomWallThin=1.0x20",
+      "ItmFloorTSDOC_01Loose=1.0x21",
+      "ItmFloorTSDOC_02Loose=1.0x21",
+      "ItmFloorTSDOC_03Loose=1.0x21",
+      "ItmFloorTSDOC_04Loose=1.0x21",
+      "ItmFloorTSDOC_05Loose=1.0x21",
+      "ItmFloorTSDOC_06Loose=1.0x21",
+      "ItmFloorTSDOC_07Loose=1.0x21",
+      "ItmFloorTSDOC_08Loose=1.0x21",
+      "ItmFloorTSDOC_08aLoose=1.0x21",
+      "ItmFloorTSDOC_08bLoose=1.0x21",
+      "ItmFloorTSDOC_08cLoose=1.0x21",
+      "ItmFloorTSDOC_08dLoose=1.0x21",
+      "ItmFloorTSDOC_08eLoose=1.0x21",
+      "ItmRandomRackLoose=1.0x21",
+      "ItmRandomStorageBinLoose=1.0x21",
+	    "ItmBedSmallLoose=1.0x2"
+    ],
+    "strType" : "item"
   }
 ]
-
-
