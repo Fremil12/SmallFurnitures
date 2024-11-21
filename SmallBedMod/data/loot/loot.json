@@ -1,0 +1,26 @@
+[
+
+  { "strName" : "ACTBedSmallDamage", "aCOs" : [ "MSDamageBedSmall=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTBedSmallLooseDamage", "aCOs" : [ "MSDamageBedSmallLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTBedSmallDestroy", "aCOs" : [ "MSDestroyBedSmall=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+
+  {
+    "strName" : "ItmOKLGFurnishingsKioskInv",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+      "ItmBedSmallLoose=1.0x6"
+    ]
+  },
+  {
+    "strName" : "ItmRandomDamagedParts",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+      "ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1"
+    ],
+    "strType" : "item"
+  }
+]
+
+

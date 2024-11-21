@@ -1,0 +1,148 @@
+[
+  {
+    "strName" : "ItmBedSmall",
+    "strImg"  : "ItmBedSmall",
+    "strImgNorm"  : "ItmBedSmalln",
+    "strImgDamaged" : "ItmBedSmallDmg",
+    "strDmgColor" : "DamageTintNone",
+    "fDmgComplexity" : 500,
+    "fDmgCut" : 1.0,
+    "fDmgTrim" : 0.0,
+    "fDmgIntensity" : 1.0,
+    "bLerp" : false,
+    "fZScale"  : 0.05,
+    "nCols"  : 2,
+    "aSocketAdds"    : [
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]
+  },
+
+  {
+    "strName" : "ItmBedSmallLoose",
+    "strImg"  : "ItmBedSmallLoose",
+    "strImgNorm"  : "ItmBedSmallLoosen",
+    "strImgDamaged" : "ItmBedSmallLooseDmg",
+    "strDmgColor" : "DamageTintNone",
+    "fDmgComplexity" : 500,
+    "fDmgCut" : 1.0,
+    "fDmgTrim" : 0.0,
+    "fDmgIntensity" : 1.0,
+    "bLerp" : false,
+    "fZScale"  : 0.05,
+    "nCols"  : 2,
+    "aSocketAdds"    : [
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName" : "ItmBedSmallDmg",
+    "strImg"  : "ItmBedSmallDmg",
+    "strImgNorm"  : "ItmBedSmallDmgn",
+    "strImgDamaged" : "ItmBedSmallDmgn",
+    "strDmgColor" : "DamageTintGrey",
+    "fDmgComplexity" : 500,
+    "fDmgCut" : 1.0,
+    "fDmgTrim" : 0.0,
+    "fDmgIntensity" : 1.0,
+    "bLerp" : false,
+    "fZScale"  : 0.05,
+    "nCols"  : 2,
+    "aSocketAdds"    : [
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]
+  },
+  {
+    "strName" : "ItmBedSmallDmgLoose",
+    "strImg"  : "ItmBedSmallDmgLoose",
+    "strImgNorm"  : "ItmBedSmallLooseDmgn",
+    "strImgDamaged" : "ItmBedSmallLooseDmgn",
+    "strDmgColor" : "DamageTintGrey",
+    "fDmgComplexity" : 500,
+    "fDmgCut" : 1.0,
+    "fDmgTrim" : 0.0,
+    "fDmgIntensity" : 1.0,
+    "bLerp" : false,
+    "fZScale"  : 0.05,
+    "nCols"  : 2,
+    "aSocketAdds"    : [
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds",
+      "TILFixtureAdds", "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "TILFloor", "TILFloor", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
+    ]
+  }
+  
+]
