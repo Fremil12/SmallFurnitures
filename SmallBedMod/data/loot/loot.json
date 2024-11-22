@@ -9,7 +9,7 @@
     "aCOs"    : [
     ],
     "aLoots"  : [
-      "ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1"
+      "ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1|ItmAirPump01DmgLoose=0.033x1|ItmAlarmCO2DmgLoose=0.033x1|ItmAlarmN2DmgLoose=0.033x1|ItmAlarmO2DmgLoose=0.033x1|ItmAlarmTempDmgLoose=0.033x1|ItmAntenna01DmgLoose=0.033x1|ItmAtmoScrubber01DmgLoose=0.033x1|ItmBattery02DmgLoose=0.033x1|ItmBedMedical01DmgLoose=0.033x1|ItmBed01DmgLoose=0.033x1|ItmChair01DmgLoose=0.033x1|ItmChair02DmgLoose=0.033x1|ItmChairStrap01DmgLoose=0.033x1|ItmCooler01DmgLoose=0.033x1|ItmHeater01DmgLoose=0.033x1|ItmFridge01DmgLoose=0.033x1|ItmDoor01ClosedDmgLoose=0.033x1|ItmStationNavDmgLoose=0.033x1|ItmSwitch01DmgLoose=0.033x1|ItmElectricalBox01DmgLoose=0.033x1|ItmTowingBrace01DmgLoose=0.033x1|ItmStrengthTrainer01DmgLoose=0.033x1|ItmTreadmill01DmgLoose=0.033x1|ItmChargerBattEVADmgLoose=0.033x1|ItmArcadeGame01DmgLoose=0.033x1|ItmRCSCluster01DmgLoose=0.033x1|ItmBattery02bDmgLoose=0.033x1|ItmBattery02cDmgLoose=0.033x1|ItmRCSDistro01DmgLoose=0.033x1|ItmRCSDistro02DmgLoose=0.033x1|ItmRandomFusionPart=0.033x1"
     ],
     "strType" : "item"
   },
@@ -65,6 +65,7 @@
       "ItmFloorTSDOC_08eLoose=1.0x21",
       "ItmRandomRackLoose=1.0x21",
       "ItmRandomStorageBinLoose=1.0x21",
+
 	    "ItmBedSmallLoose=1.0x2"
     ],
     "strType" : "item"

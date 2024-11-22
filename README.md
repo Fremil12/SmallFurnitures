@@ -1,2 +1,0 @@
-# TinyItemsMod
-Ostranauts
