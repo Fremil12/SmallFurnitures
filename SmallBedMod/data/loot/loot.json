@@ -66,7 +66,7 @@
       "ItmRandomRackLoose=1.0x21",
       "ItmRandomStorageBinLoose=1.0x21",
 
-	    "ItmBedSmallLoose=1.0x2"
+	    "ItmBedSmallLoose=1.0x6"
     ],
     "strType" : "item"
   },
