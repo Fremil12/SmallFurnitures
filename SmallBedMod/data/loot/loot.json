@@ -78,7 +78,9 @@
       "ItmAntenna02Loose=1.0x3",
       "ItmTowingBrace01Loose=1.0x2",
       "ItmBed01Loose=1.0x5",
+
       "ItmBedSmallLoose=1.0x5",
+      
       "ItmBedMedical01Loose=1.0x2",
       "ItmChairStrap01Loose=1.0x10",
       "ItmTable01Loose=1.0x2",
