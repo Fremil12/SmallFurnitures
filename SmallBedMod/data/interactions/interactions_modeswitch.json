@@ -1,0 +1,81 @@
+[
+  {
+    "strName": "MSDamageBedSmall",
+    "strTitle": "",
+    "strDesc": "[us] is damaged.",
+    "fDuration": 0.0,
+    "strThemType": "Self",
+    "bIgnoreFeelings": true,
+    "LootCTsUs": null,
+    "LootCTsThem": null,
+    "CTTestUs": null,
+    "CTTestThem": null,
+    "objLootModeSwitch": "ItmBedSmallDamage"
+  },
+  {
+    "strName": "MSDamageBedSmallLoose",
+    "strTitle": "",
+    "strDesc": "[us] is damaged.",
+    "fDuration": 0.0,
+    "strThemType": "Self",
+    "bIgnoreFeelings": true,
+    "LootCTsUs": null,
+    "LootCTsThem": null,
+    "CTTestUs": null,
+    "CTTestThem": null,
+    "objLootModeSwitch": "ItmBedSmallLooseDamage"
+  },
+  {
+    "strName": "MSDestroyBedSmall",
+    "strTitle": "",
+    "strDesc": "[us] is destroyed.",
+    "fDuration": 0.0,
+    "strThemType": "Self",
+    "bIgnoreFeelings": true,
+    "LootCTsUs": null,
+    "LootCTsThem": null,
+    "CTTestUs": null,
+    "CTTestThem": null,
+    "objLootModeSwitch": "ItmBedSmallComponentsShell"
+  },
+  {
+    "strName": "MSDestroyBedSmallLoose",
+    "strTitle": "",
+    "strDesc": "[us] is destroyed.",
+    "fDuration": 0.0,
+    "strThemType": "Self",
+    "bIgnoreFeelings": true,
+    "LootCTsUs": null,
+    "LootCTsThem": null,
+    "CTTestUs": null,
+    "CTTestThem": null,
+    "objLootModeSwitch": "ItmBedSmallComponentsShell"
+  },
+  {
+    "strName": "MSDestroyBedSmallDmg",
+    "strTitle": "",
+    "strDesc": "[us] is destroyed.",
+    "fDuration": 0.0,
+    "strThemType": "Self",
+    "bIgnoreFeelings": true,
+    "LootCTsUs": null,
+    "LootCTsThem": null,
+    "CTTestUs": null,
+    "CTTestThem": null,
+    "objLootModeSwitch": "ItmBedSmallComponentsShell"
+  },
+  {
+    "strName": "MSDestroyBedSmallDmgLoose",
+    "strTitle": "",
+    "strDesc": "[us] is destroyed.",
+    "fDuration": 0.0,
+    "strThemType": "Self",
+    "bIgnoreFeelings": true,
+    "LootCTsUs": null,
+    "LootCTsThem": null,
+    "CTTestUs": null,
+    "CTTestThem": null,
+    "objLootModeSwitch": "ItmBedSmallComponentsShell"
+  }
+
+]

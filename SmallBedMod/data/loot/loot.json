@@ -9,7 +9,7 @@
     "aCOs"    : [
     ],
     "aLoots"  : [
-      "ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1"
+      "ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1|ItmAirPump01DmgLoose=0.033x1|ItmAlarmCO2DmgLoose=0.033x1|ItmAlarmN2DmgLoose=0.033x1|ItmAlarmO2DmgLoose=0.033x1|ItmAlarmTempDmgLoose=0.033x1|ItmAntenna01DmgLoose=0.033x1|ItmAtmoScrubber01DmgLoose=0.033x1|ItmBattery02DmgLoose=0.033x1|ItmBedMedical01DmgLoose=0.033x1|ItmBed01DmgLoose=0.033x1|ItmChair01DmgLoose=0.033x1|ItmChair02DmgLoose=0.033x1|ItmChairStrap01DmgLoose=0.033x1|ItmCooler01DmgLoose=0.033x1|ItmHeater01DmgLoose=0.033x1|ItmFridge01DmgLoose=0.033x1|ItmDoor01ClosedDmgLoose=0.033x1|ItmStationNavDmgLoose=0.033x1|ItmSwitch01DmgLoose=0.033x1|ItmElectricalBox01DmgLoose=0.033x1|ItmTowingBrace01DmgLoose=0.033x1|ItmStrengthTrainer01DmgLoose=0.033x1|ItmTreadmill01DmgLoose=0.033x1|ItmChargerBattEVADmgLoose=0.033x1|ItmArcadeGame01DmgLoose=0.033x1|ItmRCSCluster01DmgLoose=0.033x1|ItmBattery02bDmgLoose=0.033x1|ItmBattery02cDmgLoose=0.033x1|ItmRCSDistro01DmgLoose=0.033x1|ItmRCSDistro02DmgLoose=0.033x1|ItmRandomFusionPart=0.033x1"
     ],
     "strType" : "item"
   },
@@ -65,7 +65,65 @@
       "ItmFloorTSDOC_08eLoose=1.0x21",
       "ItmRandomRackLoose=1.0x21",
       "ItmRandomStorageBinLoose=1.0x21",
-	    "ItmBedSmallLoose=1.0x2"
+
+	    "ItmBedSmallLoose=1.0x6"
+    ],
+    "strType" : "item"
+  },
+
+  {
+    "strName" : "ItmUpdate12ShowcaseItms",
+    "aCOs"    : [
+      "ItmAntenna01Loose=1.0x3",
+      "ItmAntenna02Loose=1.0x3",
+      "ItmTowingBrace01Loose=1.0x2",
+      "ItmBed01Loose=1.0x5",
+
+      "ItmBedSmallLoose=1.0x5",
+      
+      "ItmBedMedical01Loose=1.0x2",
+      "ItmChairStrap01Loose=1.0x10",
+      "ItmTable01Loose=1.0x2",
+      "ItmTable02Loose=1.0x2",
+      "ItmBattery02bLoose=1.0x6",
+      "ItmBattery02cLoose=1.0x6",
+      "ItmVent02Loose=1.0x6",
+      "ItmHatch01Loose=1.0x6",
+      "ItmOssifexPen01=1.0x6",
+      "ItmTreadmill01Loose=1.0x2",
+      "ItmStrengthTrainer01Loose=1.0x2",
+      "ItmTerminal01Loose=1.0x4",
+      "ItmJukebox01Loose=1.0x2",
+      "ItmTV01Loose=1.0x2",
+      "ItmSignNeon01Loose=1.0x2",
+      "ItmArcadeGame01Loose=1.0x2",
+      "ItmLitWall1x0OffLooseCustom=1.0x6",
+      "ItmFloorTSDOC_01Loose=1.0x21",
+      "ItmFloorTSDOC_02Loose=1.0x21",
+      "ItmFloorTSDOC_03Loose=1.0x21",
+      "ItmFloorTSDOC_04Loose=1.0x21",
+      "ItmFloorTSDOC_05Loose=1.0x21",
+      "ItmFloorTSDOC_06Loose=1.0x21",
+      "ItmFloorTSDOC_07Loose=1.0x21",
+      "ItmFloorTSDOC_08Loose=1.0x21",
+      "ItmFloorTSDOC_08aLoose=1.0x21",
+      "ItmFloorTSDOC_08bLoose=1.0x21",
+      "ItmFloorTSDOC_08cLoose=1.0x21",
+      "ItmFloorTSDOC_08dLoose=1.0x21",
+      "ItmFloorTSDOC_08eLoose=1.0x21",
+      "ItmDecorPoster00Loose=1.0x3",
+      "ItmDecorPoster02Loose=1.0x3",
+      "ItmDecorPoster03Loose=1.0x3",
+      "ItmDecorPoster04Loose=1.0x3",
+      "ItmDecorPoster05Loose=1.0x3",
+      "ItmDecorPoster06Loose=1.0x3",
+      "ItmDecorPoster09Loose=1.0x3",
+      "ItmDecorPoster10Loose=1.0x3",
+      "ItmDecorPoster11Loose=1.0x3",
+      "ItmDecorPoster12Loose=1.0x3",
+      "ItmElectricalBox01Loose=1.0x3"
+    ],
+    "aLoots"  : [
     ],
     "strType" : "item"
   }
