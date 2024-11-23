@@ -1,0 +1,59 @@
+[
+  {
+    "strName" : "ItmBed01Damage",
+    "aCOs"    : [
+      "ItmBed01Dmg=1.0x1"
+    ],
+    "aLoots"  : [
+      "ItmBed01Components=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmBed01LooseDamage",
+    "aCOs"    : [
+      "ItmBed01DmgLoose=1.0x1"
+    ],
+    "aLoots"  : [
+      "ItmBed01Components=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmBed01Components",
+    "aCOs"    : [
+      "ItmScrapClothDirty=0.5x1-4",
+      "ItmScrapClothClean=0.5x1-2",
+      "ItmScrapSteel=1.0x1-2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmBed01Dismantle",
+    "aCOs"    : [
+      "ItmScrapClothDirty=1.0x12",
+      "ItmScrapClothClean=1.0x4",
+      "ItmScrapSteel=1.0x1-2",
+      "ItmScrapAluminum=1.0x6",
+      "ItmScrapCarbonFiber=1.0x3"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmBed01ComponentsShell",
+    "aCOs"    : [      
+      "ItmScrapTrash=1.0x1-2",
+      "ItmScrapAluminum=1.0x1-3",
+      "ItmScrapCarbonFiber=1.0x1-3",
+      "ItmPartsMechSmall01=1.0x1-2",
+      "ItmScrapClothDirty=1.0x1-2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  }
+]
