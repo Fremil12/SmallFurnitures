@@ -2,13 +2,6 @@
 	{ "strName" : "TIsBedSmallInstalled", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall", "IsInstalled" ], "aForbids" : [ "IsDamaged" ], "aTriggers" : [ ], "bAND" : true },
 	{ "strName" : "TIsBedSmallInstalledDmg", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall", "IsInstalled", "IsDamaged" ], "aForbids" : [  ], "aTriggers" : [ ], "bAND" : true },
 	{ "strName" : "TIsBedSmallUninstalled", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall" ], "aForbids" : [ "IsInstalled", "IsDamaged" ], "aTriggers" : [ ], "bAND" : true },
-	{ "strName" : "TIsBedSmallUninstalledDmg", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall", "IsDamaged" ], "aForbids" : [ "IsInstalled" ], "aTriggers" : [ ], "bAND" : true },
-  
-	{ "strName" : "TIsBarterOKLGFixerBuyList", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall" ], "aForbids" : [  ], "aTriggersForbid" : [ "TIsBarterOKLGFixerBuy" ], "bAND" : false },
-	{ "strName" : "TIsBarterOKLGFixerBuy01", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall" ], "aForbids" : [  ], "aTriggersForbid" : [ "TIsBarterOKLGFixerBuy" ], "bAND" : false },
-	{ "strName" : "TIsBarterOKLGFixerBuy02", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall" ], "aForbids" : [  ], "aTriggersForbid" : [ "TIsBarterOKLGFixerBuy" ], "bAND" : false },
-	{ "strName" : "TIsBarterOKLGFixerBuy03", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall"], "aForbids" : [  ], "aTriggersForbid" : [ "TIsBarterOKLGFixerBuy" ], "bAND" : false },
-	{ "strName" : "TIsBarterOKLGFixerBuy04", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall" ], "aForbids" : [  ], "aTriggersForbid" : [ "TIsBarterOKLGFixerBuy" ], "bAND" : false },
-	{ "strName" : "TIsBarterOKLGFixerBuy05", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall" ], "bAND" : false }
-  
+	{ "strName" : "TIsBedSmallUninstalledDmg", "strCondName" : "", "fChance" : 1.0, "fCount" : 1.0, "aReqs" : [ "IsBedSmall", "IsDamaged" ], "aForbids" : [ "IsInstalled" ], "aTriggers" : [ ], "bAND" : true }
+   
 ]
