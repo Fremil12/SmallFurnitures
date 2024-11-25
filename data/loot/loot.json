@@ -18,7 +18,6 @@
 
     "aLoots"  : [
       "--ADD--=",
-      "ItmBedSmallLoose=0.2x1",
       "ItmCoolerSmallOffLoose=0.2x1",
       "ItmHeaterSmallOffLoose=0.2x1"
     ],
