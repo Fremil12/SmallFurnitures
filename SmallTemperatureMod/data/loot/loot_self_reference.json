@@ -1,0 +1,45 @@
+[
+  { "strName" : "ItmHeaterSmallOffLoose", "aCOs"    : [ "ItmHeaterSmallOffLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "item" },
+  { "strName" : "ItmHeaterSmallDmgLoose", "aCOs"    : [ "ItmHeaterSmallDmgLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "item" },
+
+  {
+    "strName" : "ItmHeaterSmallOff",
+    "aCOs"    : [
+      "ItmHeaterSmallOff=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmHeaterSmall",
+    "aCOs"    : [
+      "ItmHeaterSmall=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+ 
+
+  { "strName" : "ItmCoolerSmallOffLoose", "aCOs"    : [ "ItmCoolerSmallOffLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "item" }, 
+  {
+    "strName" : "ItmCoolerSmallOn",
+    "aCOs"    : [
+      "ItmCoolerSmallOn=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+
+  {
+    "strName" : "ItmCoolerSmallOff",
+    "aCOs"    : [
+      "ItmCoolerSmallOff=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  }
+]

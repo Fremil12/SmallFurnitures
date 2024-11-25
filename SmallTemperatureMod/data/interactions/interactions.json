@@ -1,0 +1,102 @@
+[
+  {
+    "strName" : "ACTHeaterSmallRepairNPC",
+    "strTitle" : "Repair",
+    "strDesc" : "[us] starts repairing the damage to [them].",
+    "strActionGroup" : "Work",
+    "strTargetPoint" : "use",
+    "fTargetPointRange" : 1.5,
+    "strDuty"           : "Repair",
+    "strAnim"           : "Tooling",
+    "strBubble"         : "BblTouch",
+    "strMapIcon"        : "IcoRepair",
+    "aInverse"          : [
+      "ACTHeaterSmallRepairNPCAllow"
+    ],
+    "fDuration"         : 0.013,
+    "strThemType"       : "Other",
+    "strRaiseUI"        : null,
+    "nLogging"         : 1,
+    "bIgnoreFeelings" : true,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : null,
+    "CTTestUs"           : null,
+    "CTTestThem"         : "TIsHeaterSmallInstalledDmg",
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : null
+  },
+  {
+    "strName" : "ACTHeaterSmallRepairNPCAllow",
+    "strTitle" : "Repair",
+    "strDesc" : "[us] is repaired.",
+    "strActionGroup" : "Work",
+    "strTargetPoint" : null,
+    "fTargetPointRange" : 1.5,
+    "strAnim"           : null,
+    "strBubble"         : null,
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "strRaiseUI"        : null,
+    "nLogging"         : 1,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : "CTACTRepairNPC",
+    "CTTestUs"           : null,
+    "CTTestThem"         : null,
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : "ItmHeaterSmallOff"
+  },
+  {
+    "strName" : "ACTCoolerSmallRepairNPC",
+    "strTitle" : "Repair",
+    "strDesc" : "[us] starts repairing the damage to [them].",
+    "strActionGroup" : "Work",
+    "strTargetPoint" : "use",
+    "fTargetPointRange" : 1.5,
+    "strDuty"           : "Repair",
+    "strAnim"           : "Tooling",
+    "strBubble"         : "BblTouch",
+    "strMapIcon"        : "IcoRepair",
+    "aInverse"          : [
+      "ACTCoolerSmallRepairNPCAllow"
+    ],
+    "fDuration"         : 0.013,
+    "strThemType"       : "Other",
+    "strRaiseUI"        : null,
+    "nLogging"         : 1,
+    "bIgnoreFeelings" : true,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : null,
+    "CTTestUs"           : null,
+    "CTTestThem"         : "TIsCoolerSmallInstalledDmg",
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : null
+  },
+  {
+    "strName" : "ACTCoolerSmallRepairNPCAllow",
+    "strTitle" : "Repair",
+    "strDesc" : "[us] is repaired.",
+    "strActionGroup" : "Work",
+    "strTargetPoint" : null,
+    "fTargetPointRange" : 1.5,
+    "strAnim"           : null,
+    "strBubble"         : null,
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "strRaiseUI"        : null,
+    "nLogging"         : 1,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : "CTACTRepairNPC",
+    "CTTestUs"           : null,
+    "CTTestThem"         : null,
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : "ItmCoolerSmallOff"
+  }
+]

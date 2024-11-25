@@ -47,7 +47,7 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "HeaterSmall",
+    "jsonPI"            : "Small HeaterSmall",
     "strAudioEmitter"   : "ItmHeaterOffSound"
   },
   {
@@ -144,7 +144,7 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "HeaterSmall",
+    "jsonPI"            : "Small HeaterSmall",
     "strAudioEmitter"   : "ItmHeaterOnSound"
   },
   {
@@ -190,7 +190,7 @@
       "Destructable,StatDamage,ACTHeaterSmallDestroy,StatDamageMax,1.0",
       "Electrical,Electrical"
     ],
-    "strPortraitImg"  : "ItmHeaterSmallDmg02",
+    "strPortraitImg"  : "ItmHeaterSmallDmg",
     "aTickers" : [ 
     ]
   },
@@ -234,7 +234,7 @@
     "aUpdateCommands" : [
       "Destructable,StatDamage,ACTHeaterSmallLooseDestroy,StatDamageMax,1.0"
     ],
-    "strPortraitImg"  : "ItmHeaterSmallDmg02Loose"
+    "strPortraitImg"  : "ItmHeaterSmallDmgLoose"
   },
   {
     "strName" : "ItmCoolerSmallOff",
@@ -267,9 +267,8 @@
     "mapCondTolerance"       : [
     ],
     "mapPoints"      : [
-      "use,8,-32",
-      "PowerA,-8,0",
-      "PowerB,8,0"
+      "use,0,-32",
+      "PowerA,-8,0"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -284,7 +283,7 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "CoolerSmall"
+    "jsonPI"            : "Small CoolerSmall"
   },
   {
     "strName" : "ItmCoolerSmallOffLoose",
@@ -313,7 +312,7 @@
       "IsCategoryHVAC=1.0x1"
     ],
     "mapPoints"      : [
-      "use,8,-32"
+      "use,0,-32"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -367,9 +366,8 @@
       "Electrical,Electrical"
     ],
     "mapPoints"      : [
-      "use,8,-32",
+      "use,0,-32",
       "PowerA,-8,0",
-      "PowerB,8,0",
       "Cool,0,-16",
       "Heat,0,16"
     ],
@@ -382,7 +380,7 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "CoolerSmall",
+    "jsonPI"            : "Small CoolerSmall",
     "strAudioEmitter": "ItmCoolerSmallOnSound"
   },
   {
@@ -418,7 +416,7 @@
     "mapCondTolerance"       : [
     ],
     "mapPoints"      : [
-      "use,8,-32"
+      "use,0,-32"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -462,7 +460,7 @@
       "IsCategoryHVAC=1.0x1"
     ],
     "mapPoints"      : [
-      "use,8,-32"
+      "use,0,-32"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
