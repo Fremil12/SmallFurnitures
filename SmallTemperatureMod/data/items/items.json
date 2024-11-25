@@ -8,23 +8,23 @@
     "fZScale"  : 0.9,
     "nCols"  : 3,
     "aSocketAdds"    : [
-      "TILWallDecoAdds", "TILWallDecoAdds", "TILWallDecoAdds", "TILWallDecoAdds",
-      "Blank", "TILFixtureAdds", "TILFixtureAdds", "Blank",
-      "Blank", "TILFixtureAdds", "TILFixtureAdds", "Blank"
+      "TILWallDecoAdds", "TILWallDecoAdds", "TILWallDecoAdds",
+      "Blank", "TILFixtureAdds", "Blank",
+      "Blank", "TILFixtureAdds", "Blank"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
-      "Blank", "Blank", "TILFixture", "TILFixture", "Blank", "Blank",
-      "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank",
-      "Blank", "Blank", "TILObstruction", "TILObstruction", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
+      "Blank", "Blank", "TILFixture", "Blank", "Blank",
+      "Blank", "Blank", "TILObstruction", "Blank", "Blank",
+      "Blank", "Blank", "TILObstruction", "Blank", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "Blank", "TILWall", "TILWall", "Blank", "Blank",
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "TILWall", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank"
     ]
   },
   {
@@ -72,9 +72,9 @@
       "Blank", "TILFixtureAdds", "Blank"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
       "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
-      "Blank", "Blank", "TILFixture","Blank", "Blank",
+      "Blank", "Blank", "TILFixture", "Blank", "Blank",
       "Blank", "Blank", "TILObstruction", "Blank", "Blank",
       "Blank", "Blank", "TILObstruction", "Blank", "Blank"
     ],
