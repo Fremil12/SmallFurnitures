@@ -18,7 +18,7 @@
 
     "aLoots"  : [
       "--ADD--=",
-      "ItmBedSmallLoose=1.0x6",
+      "ItmBedSmallLoose=0.2x1",
       "ItmCoolerSmallOffLoose=0.2x1",
       "ItmHeaterSmallOffLoose=0.2x1"
       	    
@@ -30,7 +30,7 @@
     "aCOs"    : [
     ],
     "aLoots"  : [
-      "1=|--ADD--=|ItmCoolerSmallDmgLoose=0.033x1|ItmHeaterSmallDmgLoose=0.033x1|ItmBedSmallDmgLoose=0.033x1|ItmBedSmallLoose=0.033x1"
+      "1=|--ADD--=|ItmCoolerSmallDmgLoose=0.033x1|ItmHeaterSmallDmgLoose=0.033x1|ItmBedSmallDmgLoose=0.033x1"
     ],
     "strType" : "item"
   }

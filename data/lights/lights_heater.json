@@ -1,14 +1,5 @@
 [
   {
-    "strName" : "CoolerSmallG",
-    "strColor": "Blank",
-    "strImg": "ItmLitGreen",
-    "ptPos": {
-      "x": 10,
-      "y": -15
-    }
-  },
-  {
     "strName" : "HeaterSmallG",
     "strColor": "AlarmGreen",
     "strImg": "ItmLitGreen",

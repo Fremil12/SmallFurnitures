@@ -12,18 +12,5 @@
     "strUsePowerCT": "TIsReadyUsePower",
     "strRechargeCT": null,
     "bAllowExtPower" :  true
-  },
-  {
-    "strName" : "CoolerSmall",
-    "aInputPts"      : [
-      "PowerA"
-    ],
-    "fAmount": 7.6e-5,
-    "strIntPowerOn": "MSCoolerSmallOnAllow",
-    "strIntPowerOff": "MSCoolerSmallOffAllow",
-    "strShutDownCT": "TIsConnctedSignalledOff",
-    "strUsePowerCT": "TIsReadyUsePower",
-    "strRechargeCT": null,
-    "bAllowExtPower" :  true
   }
 ]
