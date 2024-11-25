@@ -1,0 +1,239 @@
+[
+  {
+    "strName" : "ItmHeaterSmallOff",
+    "strNameShort" : "Heater",
+    "strNameFriendly" : "Heater (Off)",
+    "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strItemDef" : "ItmHeaterSmallOff",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "GUIHeater"
+    ],
+    "aStartingConds" : [
+      "IsHiddenInv=1.0x1",
+      "IsInstalled=1.0x1",
+      "IsHeater=1.0x1",
+      "IsOff=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "StatBasePrice=1.0x3634.00",
+      "StatDismantleProgressMax=1.0x120",
+      "StatInstallProgressMax=1.0x150",
+      "StatUninstallProgressMax=1.0x150",
+      "StatMass=1.0x15.5",
+      "StatDamageMax=1.0x5",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1",
+      "IsSignalable=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+      "use,24,-8",
+      "PowerA,-24,8",
+      "PowerB,-24,-8"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Heater",
+      "Electrical"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTHeaterSmallDamage,StatDamageMax,1.0",
+      "Electrical,Electrical"
+    ],
+    "strPortraitImg"  : "ItmHeaterSmall",
+    "aTickers" : [ 
+      "Power"
+    ],
+    "jsonPI"            : "HeaterSmall",
+    "strAudioEmitter"   : "ItmHeaterOffSound"
+  },
+  {
+    "strName" : "ItmHeaterSmallOffLoose",
+    "strNameShort" : "Heater",
+    "strItemDef" : "ItmHeaterSmallOffLoose",
+    "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strNameFriendly" : "Heater (Loose)",
+    "strType"    : "Item",
+    "aInteractions" : [
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsHeater=1.0x1",
+      "IsOff=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsCumbersome=1.0x1.0",
+      "StatBasePrice=1.0x3634.00",
+      "StatDismantleProgressMax=1.0x120",
+      "StatInstallProgressMax=1.0x150",
+      "StatUninstallProgressMax=1.0x150",
+      "StatMass=1.0x15.5",
+      "StatDamageMax=1.0x5",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1"
+    ],
+    "mapPoints"      : [
+      "use,24,-8"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Heater"
+    ],
+    "mapSlotEffects" : [
+      "drag", "Blank"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTHeaterSmallLooseDamage,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmHeaterSmallLoose"
+  },
+  {
+    "strName" : "ItmHeaterSmall",
+    "strNameShort" : "Heater",
+    "strNameFriendly" : "Heater",
+    "strItemDef" : "ItmHeaterSmall",
+    "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "GUIHeater"
+    ],
+    "aStartingConds" : [
+      "IsHiddenInv=1.0x1",
+      "IsInstalled=1.0x1",
+      "IsHeater=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "StatBasePrice=1.0x3634.00",
+      "IsReadyHeat=1.0x1",
+      "StatHeatArea=1.0x1.0",
+      "StatHeatVol=1.0x0.5",
+      "StatMass=1.0x15.5",
+      "StatSolidTemp=1.0x1073.0",
+      "StatDismantleProgressMax=1.0x120",
+      "StatInstallProgressMax=1.0x150",
+      "StatUninstallProgressMax=1.0x150",
+      "IsPowered=1.0x1",
+      "StatDamageMax=1.0x5",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1",
+      "IsSignalable=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "aUpdateCommands" : [
+      "Heater,TIsAirtightNoHuman",
+      "Destructable,StatDamage,ACTHeaterSmallDamage,StatDamageMax,1.0",
+      "Electrical,Electrical"
+    ],
+    "mapPoints"      : [
+      "use,24,-8",
+      "PowerA,-24,8",
+      "PowerB,-24,-8"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Heater",
+      "Electrical"
+    ],
+    "strPortraitImg"  : "ItmHeaterSmall",
+    "aTickers" : [ 
+      "Power"
+    ],
+    "jsonPI"            : "HeaterSmall",
+    "strAudioEmitter"   : "ItmHeaterOnSound"
+  },
+  {
+    "strName" : "ItmHeaterSmallDmg",
+    "strNameShort" : "Heater",
+    "strNameFriendly" : "Heater (Damaged)",
+    "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strItemDef" : "ItmHeaterSmallDmg",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "GUIHeater"
+    ],
+    "aStartingConds" : [
+      "IsDamaged=1.0x1",
+      "IsHiddenInv=1.0x1",
+      "IsInstalled=1.0x1",
+      "IsHeater=1.0x1",
+      "IsOff=1.0x1",
+      "IsSolid=1.0x1.0",
+      "StatBasePrice=1.0x714.00",
+      "StatDismantleProgressMax=1.0x20",
+      "StatInstallProgressMax=1.0x150",
+      "StatUninstallProgressMax=1.0x150",
+      "StatRepairProgressMax=1.0x400",
+      "StatMass=1.0x15.5",
+      "StatDamageMax=1.0x15",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1",
+      "IsSignalable=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+      "use,24,-8"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Heater",
+      "Electrical"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTHeaterSmallDestroy,StatDamageMax,1.0",
+      "Electrical,Electrical"
+    ],
+    "strPortraitImg"  : "ItmHeaterSmallDmg",
+    "aTickers" : [ 
+    ]
+  },
+  {
+    "strName" : "ItmHeaterSmallDmgLoose",
+    "strNameShort" : "Heater",
+    "strItemDef" : "ItmHeaterSmallDmgLoose",
+    "strNameFriendly" : "Heater (Loose, Damaged)",
+    "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strType"    : "Item",
+    "aInteractions" : [
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsDamaged=1.0x1",
+      "IsHeater=1.0x1",
+      "IsOff=1.0x1",
+      "IsSolid=1.0x1.0",
+      "IsCumbersome=1.0x1.0",
+      "StatBasePrice=1.0x714.00",
+      "StatDismantleProgressMax=1.0x20",
+      "StatInstallProgressMax=1.0x150",
+      "StatUninstallProgressMax=1.0x150",
+      "StatRepairProgressMax=1.0x400",
+      "StatMass=1.0x15.5",
+      "StatDamageMax=1.0x15",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1"
+    ],
+    "mapPoints"      : [
+      "use,24,-8"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Heater"
+    ],
+    "mapSlotEffects" : [
+      "drag", "Blank"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTHeaterSmallLooseDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmHeaterSmallDmgLoose"
+  }
+]

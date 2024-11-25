@@ -1,0 +1,6 @@
+
+[
+  { "strName" : "ACTBedSmallDamage", "aCOs" : [ "MSDamageBedSmall=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTBedSmallLooseDamage", "aCOs" : [ "MSDamageBedSmallLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTBedSmallDestroy", "aCOs" : [ "MSDestroyBedSmall=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" }
+]
