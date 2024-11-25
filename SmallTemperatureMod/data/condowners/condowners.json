@@ -268,7 +268,7 @@
     ],
     "mapPoints"      : [
       "use,0,-32",
-      "PowerA,-8,0"
+      "PowerA,0,0"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -367,7 +367,7 @@
     ],
     "mapPoints"      : [
       "use,0,-32",
-      "PowerA,-8,0",
+      "PowerA,0,0",
       "Cool,0,-16",
       "Heat,0,16"
     ],

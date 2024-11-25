@@ -13,7 +13,7 @@
       "Blank", "TILFixtureAdds", "Blank"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
       "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
       "Blank", "Blank", "TILFixture","Blank", "Blank",
       "Blank", "Blank", "TILObstruction", "Blank", "Blank",
@@ -72,7 +72,7 @@
       "Blank", "TILFixtureAdds", "Blank"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
       "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
       "Blank", "Blank", "TILFixture","Blank", "Blank",
       "Blank", "Blank", "TILObstruction", "Blank", "Blank",
