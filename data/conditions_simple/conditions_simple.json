@@ -2,9 +2,7 @@
   {
     "strName" : "Simple Conditions",
     "aValues" : [
-		"IsBedSmall","Bed","[us] is a comfortable small bed for sleeping.","2","2","Neutral",
-		"IsCoolerSmall","Cooler","[us] is a small cooler.","2","2","Neutral",
-		"IsHeaterSmall","Heater","[us] is a small heater.","2","2","Neutral"
+      "IsBedSmall","Bed","[us] is a comfortable small bed for sleeping.","2","2","Neutral"
     ]
 
     

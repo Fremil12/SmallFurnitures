@@ -13,7 +13,7 @@
     "aStartingConds" : [
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
-      "IsCoolerSmall=1.0x1",
+      "IsCooler=1.0x1",
       "IsOff=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
@@ -60,7 +60,7 @@
       "PickupItem"
     ],
     "aStartingConds" : [
-      "IsCoolerSmall=1.0x1",
+      "IsCooler=1.0x1",
       "IsOff=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
@@ -103,7 +103,7 @@
     "aStartingConds" : [
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
-      "IsCoolerSmall=1.0x1",
+      "IsCooler=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
       "StatBasePrice=1.0x9360.0",
@@ -131,8 +131,8 @@
     "mapPoints"      : [
       "use,0,-32",
       "PowerA,0,0",
-      "Cool,0,-16",
-      "Heat,0,16"
+      "Cool,0,16",
+      "Heat,0,-16"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -161,7 +161,7 @@
       "IsDamaged=1.0x1",
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
-      "IsCoolerSmall=1.0x1",
+      "IsCooler=1.0x1",
       "IsOff=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
@@ -207,7 +207,7 @@
     ],
     "aStartingConds" : [
       "IsDamaged=1.0x1",
-      "IsCoolerSmall=1.0x1",
+      "IsCooler=1.0x1",
       "IsOff=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",

@@ -13,7 +13,7 @@
     "aStartingConds" : [
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
-      "IsHeaterrSmall=1.0x1",
+      "IsHeater=1.0x1",
       "IsOff=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
@@ -62,7 +62,7 @@
       "PickupItem"
     ],
     "aStartingConds" : [
-      "IsHeaterrSmall=1.0x1",
+      "IsHeater=1.0x1",
       "IsOff=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
@@ -105,7 +105,7 @@
     "aStartingConds" : [
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
-      "IsHeaterrSmall=1.0x1",
+      "IsHeater=1.0x1",
       "IsSalvageValueHigh=1.0x1.0",
       "IsSolid=1.0x1.0",
       "StatBasePrice=1.0x3634.00",
@@ -162,7 +162,7 @@
       "IsDamaged=1.0x1",
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
-      "IsHeaterrSmall=1.0x1",
+      "IsHeater=1.0x1",
       "IsOff=1.0x1",
       "IsSolid=1.0x1.0",
       "StatBasePrice=1.0x714.00",
@@ -207,7 +207,7 @@
     ],
     "aStartingConds" : [
       "IsDamaged=1.0x1",
-      "IsHeaterrSmall=1.0x1",
+      "IsHeater=1.0x1",
       "IsOff=1.0x1",
       "IsSolid=1.0x1.0",
       "IsCumbersome=1.0x1.0",
