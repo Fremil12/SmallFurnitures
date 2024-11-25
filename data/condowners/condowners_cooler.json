@@ -108,13 +108,13 @@
       "IsSolid=1.0x1.0",
       "StatBasePrice=1.0x9360.0",
       "IsReadyHeat=1.0x1",
-      "StatHeatArea=1.0x1.5",
-      "StatHeatVol=1.0x0.5",
+      "StatHeatArea=1.0x2.0",
+      "StatHeatVol=1.0x1.0",
       "StatDismantleProgressMax=1.0x125",
       "StatInstallProgressMax=1.0x350",
       "StatUninstallProgressMax=1.0x350",
       "StatMass=1.0x65.0",
-      "StatSolidTemp=1.0x300.0",
+      "StatSolidTemp=1.0x600.0",
       "IsPowered=1.0x1",
       "StatDamageMax=1.0x3",
       "IsMechanical=1.0x1",
@@ -131,8 +131,8 @@
     "mapPoints"      : [
       "use,0,-32",
       "PowerA,0,0",
-      "Cool,0,16",
-      "Heat,0,-16"
+      "Cool,0,-16",
+      "Heat,0,16"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
