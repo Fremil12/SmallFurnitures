@@ -109,7 +109,7 @@
       "StatBasePrice=1.0x9360.0",
       "IsReadyHeat=1.0x1",
       "StatHeatArea=1.0x2.0",
-      "StatHeatVol=1.0x1.0",
+      "StatHeatVol=1.0x0.5",
       "StatDismantleProgressMax=1.0x125",
       "StatInstallProgressMax=1.0x350",
       "StatUninstallProgressMax=1.0x350",
