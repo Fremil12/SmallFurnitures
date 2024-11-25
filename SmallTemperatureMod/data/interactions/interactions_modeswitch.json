@@ -1,0 +1,171 @@
+[
+  {
+    "strName" : "MSHeaterSmallDamage",
+    "strTitle" : "",
+    "strDesc" : "[us] is damaged.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmHeaterSmallDamage"
+  },
+  {
+    "strName" : "MSHeaterSmallDestroy",
+    "strTitle" : "",
+    "strDesc" : "[us] is destroyed.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmHeaterComponentsShell"
+  },
+  {
+    "strName" : "MSHeaterSmallLooseDamage",
+    "strTitle" : "",
+    "strDesc" : "[us] is damaged.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmHeaterSmallLooseDamage"
+  },
+  {
+    "strName" : "MSHeaterSmallLooseDestroy", 
+    "strTitle" : "",
+    "strDesc" : "[us] is destroyed.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmHeaterComponentsShell"
+  },
+  {
+    "strName" : "MSHeaterSmallOffAllow",
+    "strTitle" : "",
+    "strDesc" : "[us] switches off.",
+    "strTargetPoint" : null,
+    "fTargetPointRange" : 0,
+    "strAnim"           : null,
+    "strBubble"         : null,
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "strRaiseUI"        : null,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : null,
+    "CTTestUs"           : "TIsNotOff",
+    "CTTestThem"         : null,
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : "ItmHeaterSmallOff"
+  },
+  {
+    "strName" : "MSHeaterSmallOnAllow",
+    "strTitle" : "",
+    "strDesc" : "[us] powers-up.",
+    "strTargetPoint" : null,
+    "fTargetPointRange" : 0,
+    "strAnim"           : null,
+    "strBubble"         : null,
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "strRaiseUI"        : null,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : null,
+    "CTTestUs"           : "TIsOff",
+    "CTTestThem"         : null,
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : "ItmHeaterSmall"
+  },
+  {
+    "strName" : "MSCoolerSmallDamage",
+    "strTitle" : "",
+    "strDesc" : "[us] is damaged.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmCoolerSmallDamage"
+  },
+  {
+    "strName" : "MSCoolerSmallDestroy",
+    "strTitle" : "",
+    "strDesc" : "[us] is destroyed.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmCoolerComponentsShell"
+  },
+  {
+    "strName" : "MSCoolerSmallLooseDamage",
+    "strTitle" : "",
+    "strDesc" : "[us] is damaged.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmCoolerSmallLooseDamage"
+  },
+  {
+    "strName" : "MSCoolerSmallLooseDestroy", 
+    "strTitle" : "",
+    "strDesc" : "[us] is destroyed.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "nLogging"         : 1,
+    "objLootModeSwitch"    : "ItmCoolerComponentsShell"
+  },
+  {
+    "strName" : "MSCoolerSmallOffAllow",
+    "strTitle" : "",
+    "strDesc" : "[us] switches off.",
+    "strTargetPoint" : null,
+    "fTargetPointRange" : 0,
+    "strAnim"           : null,
+    "strBubble"         : null,
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "strRaiseUI"        : null,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : null,
+    "CTTestUs"           : "TIsNotOff",
+    "CTTestThem"         : null,
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : "ItmCoolerSmallOff"
+  },
+  {
+    "strName" : "MSCoolerSmallOnAllow",
+    "strTitle" : "",
+    "strDesc" : "[us] powers-up.",
+    "strTargetPoint" : null,
+    "fTargetPointRange" : 0,
+    "strAnim"           : null,
+    "strBubble"         : null,
+    "aInverse"          : [
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Other",
+    "bIgnoreFeelings" : true,
+    "strRaiseUI"        : null,
+    "LootCTsUs"       : null,
+    "LootCTsThem"     : null,
+    "CTTestUs"           : "TIsOff",
+    "CTTestThem"         : null,
+    "aLootItms"       : [
+    ],
+    "objLootModeSwitch"    : "ItmCoolerSmallOn"
+  }
+  
+]

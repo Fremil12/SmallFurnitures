@@ -1,0 +1,35 @@
+
+[
+  { "strName" : "ACTHeaterSmallDamage", "aCOs" : [ "MSHeaterSmallDamage=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTHeaterSmallDestroy", "aCOs" : [ "MSHeaterSmallDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTHeaterSmallLooseDamage", "aCOs" : [ "MSHeaterSmallLooseDamage=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTHeaterSmallLooseDestroy", "aCOs" : [ "MSHeaterSmallLooseDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+
+
+  { "strName" : "ACTCoolerSmallDamage", "aCOs" : [ "MSCoolerSmallDamage=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTCoolerSmallDestroy", "aCOs" : [ "MSCoolerSmallDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTCoolerSmallLooseDamage", "aCOs" : [ "MSCoolerSmallLooseDamage=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTCoolerSmallLooseDestroy", "aCOs" : [ "MSCoolerSmallLooseDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+
+
+
+  {
+    "strName" : "ItmOKLGFurnishingsKioskInv",
+
+    "aLoots"  : [
+      "--ADD--=",
+      "ItmCoolerSmallOffLoose=1.0x6",
+      "ItmHeaterSmallOffLoose=1.0x6"
+    ],
+    "strType" : "item"
+  },
+ {
+    "strName" : "ItmRandomDamagedParts",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+      "1=|--ADD--=|ItmCoolerSmallDmgLoose=0.033x1|ItmHeaterSmallDmgLoose=0.033x1"
+    ],
+    "strType" : "item"
+  }
+]

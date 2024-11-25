@@ -1,0 +1,110 @@
+[
+  {
+    "strName" : "ItmHeaterSmallDamage",
+    "aCOs"    : [
+      "ItmHeaterSmallDmg=1.0x1"
+    ],
+    "aLoots"  : [
+      "ItmHeaterComponents=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmHeaterSmallLooseDamage",
+    "aCOs"    : [
+      "ItmHeaterSmallDmgLoose=1.0x1"
+    ],
+    "aLoots"  : [
+      "ItmHeaterComponents=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmHeaterComponents",
+    "aCOs"    : [
+      "ItmComponentMotor01=0.5x1",
+      "ItmHeatSink01=0.5x1",
+      "ItmPartsMechSmall01=1.0x1-2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmHeaterComponentsShell",
+    "aCOs"    : [      
+      "ItmScrapTrash=1.0x1-2",
+      "ItmScrapSteel=0.5x1-2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmHeaterDismantle",
+    "aCOs"    : [
+      "ItmComponentMotor01=1.0x1",
+      "ItmHeatSink01=1.0x1",
+      "ItmPartsMechSmall01=1.0x2",
+      "ItmScrapTrash=1.0x2",
+      "ItmScrapSteel=1.0x2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmCoolerSmallDamage",
+    "aCOs"    : [
+      "ItmCoolerSmallDmg=1.0x1"
+    ],
+    "aLoots"  : [
+      "ItmCoolerComponents=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmCoolerSmallLooseDamage",
+    "aCOs"    : [
+      "ItmCoolerSmallDmgLoose=1.0x1"
+    ],
+    "aLoots"  : [
+      "ItmCoolerComponents=1.0x1"
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmCoolerComponents",
+    "aCOs"    : [
+      "ItmComponentMotor01=0.5x1",
+      "ItmHeatSink01=0.5x1",
+      "ItmPartsMechSmall01=1.0x1-3"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmCoolerComponentsShell",
+    "aCOs"    : [      
+      "ItmScrapTrash=1.0x1-2",
+      "ItmScrapSteel=0.5x1-2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  },
+  {
+    "strName" : "ItmCoolerDismantle",
+    "aCOs"    : [
+      "ItmComponentMotor01=1.0x1",
+      "ItmHeatSink01=1.0x1",
+      "ItmPartsMechSmall01=1.0x3",
+      "ItmScrapTrash=1.0x2",
+      "ItmScrapSteel=1.0x2"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "item"
+  }
+]
