@@ -36,23 +36,23 @@
     "fZScale"  : 0.5,
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILItemAdds",
-      "TILItemAdds",
-      "TILItemAdds"
+      "TILWallDecoAdds", "TILWallDecoAdds", "TILWallDecoAdds",
+      "Blank", "TILFixtureAdds", "Blank",
+      "Blank", "TILFixtureAdds", "Blank"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "TILItemForbids", "Blank",
-      "Blank", "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
+      "Blank", "Blank", "TILFixture","Blank", "Blank",
+      "Blank", "Blank", "TILObstruction", "Blank", "Blank",
+      "Blank", "Blank", "TILObstruction", "Blank", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "TILWall", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank", "Blank", "Blank"
     ]
   },
   {

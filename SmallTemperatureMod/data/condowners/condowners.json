@@ -1,8 +1,8 @@
 [
   {
     "strName" : "ItmHeaterSmallOff",
-    "strNameShort" : "Heater",
-    "strNameFriendly" : "Heater (Off)",
+    "strNameShort" : "Small Heater",
+    "strNameFriendly" : "Small Heater (Off)",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strItemDef" : "ItmHeaterSmallOff",
     "strType"    : "Item",
@@ -52,10 +52,10 @@
   },
   {
     "strName" : "ItmHeaterSmallOffLoose",
-    "strNameShort" : "Heater",
+    "strNameShort" : "Small Heater",
     "strItemDef" : "ItmHeaterSmallOffLoose",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
-    "strNameFriendly" : "Heater (Loose)",
+    "strNameFriendly" : "Small Heater (Loose)",
     "strType"    : "Item",
     "aInteractions" : [
       "DropItem",
@@ -93,8 +93,8 @@
   },
   {
     "strName" : "ItmHeaterSmall",
-    "strNameShort" : "Heater",
-    "strNameFriendly" : "Heater",
+    "strNameShort" : "Small Heater",
+    "strNameFriendly" : "Small Heater",
     "strItemDef" : "ItmHeaterSmall",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
@@ -149,8 +149,8 @@
   },
   {
     "strName" : "ItmHeaterSmallDmg",
-    "strNameShort" : "Heater",
-    "strNameFriendly" : "Heater (Damaged)",
+    "strNameShort" : "Small Heater",
+    "strNameFriendly" : "Small Heater (Damaged)",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strItemDef" : "ItmHeaterSmallDmg",
     "strType"    : "Item",
@@ -196,9 +196,9 @@
   },
   {
     "strName" : "ItmHeaterSmallDmgLoose",
-    "strNameShort" : "Heater",
+    "strNameShort" : "Small Heater",
     "strItemDef" : "ItmHeaterSmallDmgLoose",
-    "strNameFriendly" : "Heater (Loose, Damaged)",
+    "strNameFriendly" : "Small Heater (Loose, Damaged)",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
     "aInteractions" : [
@@ -429,7 +429,7 @@
       "Destructable,StatDamage,ACTCoolerSmallDestroy,StatDamageMax,1.0",
       "Electrical,Electrical"
     ],
-    "strPortraitImg"  : "ItmCoolerSmallDmg02",
+    "strPortraitImg"  : "ItmCoolerSmallDmg",
     "aTickers" : [ 
     ]
   },
