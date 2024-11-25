@@ -5,9 +5,9 @@
 
     "aLoots"  : [
       "--ADD--=",
-      "ItmBedSmallLoose=1.0x6",
       "ItmCoolerSmallOffLoose=1.0x6",
-      "ItmHeaterSmallOffLoose=1.0x6"
+      "ItmHeaterSmallOffLoose=1.0x6",
+      "ItmBedSmallLoose=1.0x6"
 
     ],
     "strType" : "item"
@@ -21,7 +21,6 @@
       "ItmBedSmallLoose=0.2x1",
       "ItmCoolerSmallOffLoose=0.2x1",
       "ItmHeaterSmallOffLoose=0.2x1"
-      	    
     ],
     "strType" : "item"
   },
