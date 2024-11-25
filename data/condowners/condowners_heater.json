@@ -30,9 +30,9 @@
     "mapCondTolerance"       : [
     ],
     "mapPoints"      : [
-      "use,24,-8",
-      "PowerA,-24,8",
-      "PowerB,-24,-8"
+      "use,16,-8",
+      "PowerA,-16,8",
+      "PowerB,-16,-8"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -77,7 +77,7 @@
       "IsCategoryHVAC=1.0x1"
     ],
     "mapPoints"      : [
-      "use,24,-8"
+      "use,16,-8"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -131,9 +131,9 @@
       "Electrical,Electrical"
     ],
     "mapPoints"      : [
-      "use,24,-8",
-      "PowerA,-24,8",
-      "PowerB,-24,-8"
+      "use,16,-8",
+      "PowerA,-16,8",
+      "PowerB,-16,-8"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -179,7 +179,7 @@
     "mapCondTolerance"       : [
     ],
     "mapPoints"      : [
-      "use,24,-8"
+      "use,16,-8"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
@@ -222,7 +222,7 @@
       "IsCategoryHVAC=1.0x1"
     ],
     "mapPoints"      : [
-      "use,24,-8"
+      "use,16,-8"
     ],
     "mapGUIPropMaps"  : [
       "Panel A",
