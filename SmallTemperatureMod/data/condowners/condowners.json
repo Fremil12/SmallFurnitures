@@ -1,8 +1,8 @@
 [
   {
     "strName" : "ItmHeaterSmallOff",
-    "strNameShort" : "Small Heater",
-    "strNameFriendly" : "Small Heater (Off)",
+    "strNameShort" : "Heater",
+    "strNameFriendly" : "Heater (Off)",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strItemDef" : "ItmHeaterSmallOff",
     "strType"    : "Item",
@@ -47,15 +47,15 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "Small HeaterSmall",
+    "jsonPI"            : "HeaterSmall",
     "strAudioEmitter"   : "ItmHeaterOffSound"
   },
   {
     "strName" : "ItmHeaterSmallOffLoose",
-    "strNameShort" : "Small Heater",
+    "strNameShort" : "Heater",
     "strItemDef" : "ItmHeaterSmallOffLoose",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
-    "strNameFriendly" : "Small Heater (Loose)",
+    "strNameFriendly" : "Heater (Loose)",
     "strType"    : "Item",
     "aInteractions" : [
       "DropItem",
@@ -93,8 +93,8 @@
   },
   {
     "strName" : "ItmHeaterSmall",
-    "strNameShort" : "Small Heater",
-    "strNameFriendly" : "Small Heater",
+    "strNameShort" : "Heater",
+    "strNameFriendly" : "Heater",
     "strItemDef" : "ItmHeaterSmall",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
@@ -144,13 +144,13 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "Small HeaterSmall",
+    "jsonPI"            : "HeaterSmall",
     "strAudioEmitter"   : "ItmHeaterOnSound"
   },
   {
     "strName" : "ItmHeaterSmallDmg",
-    "strNameShort" : "Small Heater",
-    "strNameFriendly" : "Small Heater (Damaged)",
+    "strNameShort" : "Heater",
+    "strNameFriendly" : "Heater (Damaged)",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strItemDef" : "ItmHeaterSmallDmg",
     "strType"    : "Item",
@@ -196,9 +196,9 @@
   },
   {
     "strName" : "ItmHeaterSmallDmgLoose",
-    "strNameShort" : "Small Heater",
+    "strNameShort" : "Heater",
     "strItemDef" : "ItmHeaterSmallDmgLoose",
-    "strNameFriendly" : "Small Heater (Loose, Damaged)",
+    "strNameFriendly" : "Heater (Loose, Damaged)",
     "strDesc" : "A heating unit manufactured by Sokol. Converts electricity into energy that radiates warmth into a cabin. A safe cabin temperature falls between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
     "aInteractions" : [
@@ -238,8 +238,8 @@
   },
   {
     "strName" : "ItmCoolerSmallOff",
-    "strNameShort" : "Small Cooler",
-    "strNameFriendly" : "Small Cooler (Off)",
+    "strNameShort" : "Cooler",
+    "strNameFriendly" : "Cooler (Off)",
     "strItemDef" : "ItmCoolerSmallOff",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
@@ -283,13 +283,13 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "Small CoolerSmall"
+    "jsonPI"            : "CoolerSmall"
   },
   {
     "strName" : "ItmCoolerSmallOffLoose",
-    "strNameShort" : "Small Cooler",
+    "strNameShort" : "Cooler",
     "strItemDef" : "ItmCoolerSmallOffLoose",
-    "strNameFriendly" : "Small Cooler (Off, Loose)",
+    "strNameFriendly" : "Cooler (Off, Loose)",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
     "aInteractions" : [
@@ -328,8 +328,8 @@
   },
   {
     "strName" : "ItmCoolerSmallOn",
-    "strNameShort" : "Small Cooler",
-    "strNameFriendly" : "Small Cooler",
+    "strNameShort" : "Cooler",
+    "strNameFriendly" : "Cooler",
     "strItemDef" : "ItmCoolerSmallOn",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
@@ -380,13 +380,13 @@
     "aTickers" : [ 
       "Power"
     ],
-    "jsonPI"            : "Small CoolerSmall",
+    "jsonPI"            : "CoolerSmall",
     "strAudioEmitter": "ItmCoolerSmallOnSound"
   },
   {
     "strName" : "ItmCoolerSmallDmg",
-    "strNameShort" : "Small Cooler",
-    "strNameFriendly" : "Small Cooler (Damaged)",
+    "strNameShort" : "Cooler",
+    "strNameFriendly" : "Cooler (Damaged)",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strItemDef" : "ItmCoolerSmallDmg",
     "strType"    : "Item",
@@ -433,9 +433,9 @@
   },
   {
     "strName" : "ItmCoolerSmallDmgLoose",
-    "strNameShort" : "Small Cooler",
+    "strNameShort" : "Cooler",
     "strItemDef" : "ItmCoolerSmallDmgLoose",
-    "strNameFriendly" : "Small Cooler (Loose, Damaged)",
+    "strNameFriendly" : "Cooler (Loose, Damaged)",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
     "aInteractions" : [
