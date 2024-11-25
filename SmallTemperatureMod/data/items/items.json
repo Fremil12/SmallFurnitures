@@ -3,7 +3,7 @@
     "strName" : "ItmCoolerSmallOff",
     "strImg"  : "ItmCoolerSmallOff",
     "strImgNorm"  : "ItmCoolerSmallOffn",
-    "strImgDamaged" : "ItmCoolerSmallDmg02",
+    "strImgDamaged" : "ItmCoolerSmallDmg",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.9,
     "nCols"  : 3,
@@ -31,35 +31,35 @@
     "strName" : "ItmCoolerSmallOffLoose",
     "strImg"  : "ItmCoolerSmallOffLoose",
     "strImgNorm"  : "ItmCoolerSmallOffLoosen",
-    "strImgDamaged" : "ItmCoolerSmallOffDmg02Loose",
+    "strImgDamaged" : "ItmCoolerSmallOffDmgLoose",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.5,
     "nCols"  : 1,
     "aSocketAdds"    : [
-      "TILWallDecoAdds", "TILWallDecoAdds", "TILWallDecoAdds",
-      "Blank", "TILFixtureAdds", "Blank",
-      "Blank", "TILFixtureAdds", "Blank"
+      "TILItemAdds",
+      "TILItemAdds",
+      "TILItemAdds"
     ],
     "aSocketForbids"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "TILWallAndDeco", "TILWallAndDeco", "TILWallAndDeco", "Blank",
-      "Blank", "Blank", "TILFixture","Blank", "Blank",
-      "Blank", "Blank", "TILObstruction", "Blank", "Blank",
-      "Blank", "Blank", "TILObstruction", "Blank", "Blank"
+      "Blank", "Blank", "Blank", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "TILItemForbids", "Blank",
+      "Blank", "Blank", "Blank", "Blank"
     ],
     "aSocketReqs"    : [
-      "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "Blank", "TILWall", "Blank", "Blank",
-      "Blank", "Blank", "Blank", "Blank", "Blank",
-      "Blank", "Blank", "Blank", "Blank", "Blank"
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank",
+      "Blank", "Blank", "Blank"
     ]
   },
   {
     "strName" : "ItmCoolerSmallOn",
     "strImg"  : "ItmCoolerSmallOff",
     "strImgNorm"  : "ItmCoolerSmallOffn",
-    "strImgDamaged" : "ItmCoolerSmallDmg02",
+    "strImgDamaged" : "ItmCoolerSmallDmg",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.9,
     "nCols"  : 3,
@@ -88,7 +88,7 @@
   },
   {
     "strName" : "ItmCoolerSmallDmg",
-    "strImg"  : "ItmCoolerSmallDmg02",
+    "strImg"  : "ItmCoolerSmallDmg",
     "strImgNorm"  : "ItmCoolerSmallOffn",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
@@ -116,7 +116,7 @@
   },
   {
     "strName" : "ItmCoolerSmallDmgLoose",
-    "strImg"  : "ItmCoolerSmallOffDmg02Loose",
+    "strImg"  : "ItmCoolerSmallOffDmgLoose",
     "strImgNorm"  : "ItmCoolerSmallOffLoosen",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
@@ -146,7 +146,7 @@
     "strName" : "ItmHeaterSmallOff",
     "strImg"  : "ItmHeaterSmall",
     "strImgNorm"  : "ItmHeaterSmalln",
-    "strImgDamaged" : "ItmHeaterSmallDmg02",
+    "strImgDamaged" : "ItmHeaterSmallDmg",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.5,
     "nCols"  : 1,
@@ -171,7 +171,7 @@
     "strName" : "ItmHeaterSmallOffLoose",
     "strImg"  : "ItmHeaterSmallLoose",
     "strImgNorm"  : "ItmHeaterSmallLoosen",
-    "strImgDamaged" : "ItmHeaterSmallDmg02Loose",
+    "strImgDamaged" : "ItmHeaterSmallDmgLoose",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.5,
     "nCols"  : 1,
@@ -196,7 +196,7 @@
     "strName" : "ItmHeaterSmall",
     "strImg"  : "ItmHeaterSmall",
     "strImgNorm"  : "ItmHeaterSmalln",
-    "strImgDamaged" : "ItmHeaterSmallDmg02",
+    "strImgDamaged" : "ItmHeaterSmallDmg",
     "strDmgColor" : "DamageTintNone",
     "fZScale"  : 0.5,
     "nCols"  : 1,
@@ -222,7 +222,7 @@
   },
   {
     "strName" : "ItmHeaterSmallDmg",
-    "strImg"  : "ItmHeaterSmallDmg02",
+    "strImg"  : "ItmHeaterSmallDmg",
     "strImgNorm"  : "ItmHeaterSmalln",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",
@@ -247,7 +247,7 @@
   },
   {
     "strName" : "ItmHeaterSmallDmgLoose",
-    "strImg"  : "ItmHeaterSmallDmg02Loose",
+    "strImg"  : "ItmHeaterSmallDmgLoose",
     "strImgNorm"  : "ItmHeaterSmallLoosen",
     "strImgDamaged" : "",
     "strDmgColor" : "DamageTintRust",

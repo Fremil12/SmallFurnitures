@@ -238,8 +238,8 @@
   },
   {
     "strName" : "ItmCoolerSmallOff",
-    "strNameShort" : "Cooler",
-    "strNameFriendly" : "Cooler (Off)",
+    "strNameShort" : "Small Cooler",
+    "strNameFriendly" : "Small Cooler (Off)",
     "strItemDef" : "ItmCoolerSmallOff",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
@@ -288,9 +288,9 @@
   },
   {
     "strName" : "ItmCoolerSmallOffLoose",
-    "strNameShort" : "Cooler",
+    "strNameShort" : "Small Cooler",
     "strItemDef" : "ItmCoolerSmallOffLoose",
-    "strNameFriendly" : "Cooler (Off, Loose)",
+    "strNameFriendly" : "Small Cooler (Off, Loose)",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
     "aInteractions" : [
@@ -329,8 +329,8 @@
   },
   {
     "strName" : "ItmCoolerSmallOn",
-    "strNameShort" : "Cooler",
-    "strNameFriendly" : "Cooler",
+    "strNameShort" : "Small Cooler",
+    "strNameFriendly" : "Small Cooler",
     "strItemDef" : "ItmCoolerSmallOn",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
@@ -387,8 +387,8 @@
   },
   {
     "strName" : "ItmCoolerSmallDmg",
-    "strNameShort" : "Cooler",
-    "strNameFriendly" : "Cooler (Damaged)",
+    "strNameShort" : "Small Cooler",
+    "strNameFriendly" : "Small Cooler (Damaged)",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strItemDef" : "ItmCoolerSmallDmg",
     "strType"    : "Item",
@@ -435,9 +435,9 @@
   },
   {
     "strName" : "ItmCoolerSmallDmgLoose",
-    "strNameShort" : "Cooler",
+    "strNameShort" : "Small Cooler",
     "strItemDef" : "ItmCoolerSmallDmgLoose",
-    "strNameFriendly" : "Cooler (Loose, Damaged)",
+    "strNameFriendly" : "Small Cooler (Loose, Damaged)",
     "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
     "strType"    : "Item",
     "aInteractions" : [
