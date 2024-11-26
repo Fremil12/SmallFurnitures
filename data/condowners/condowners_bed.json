@@ -1,7 +1,7 @@
 [
   {
     "strName" : "ItmBedSmall",
-    "strNameShort" : "Bed",
+    "strNameShort" : "Small Bed",
     "strNameFriendly" : "Small Bed",
     "strItemDef" : "ItmBedSmall",
     "strDesc" : "A fixed-frame sleeping solution. Designed for comfort in both micro-g and under-thrust applications.",
@@ -47,7 +47,7 @@
   },
       {
         "strName" : "ItmBedSmallDmg",
-        "strNameShort" : "Bed",
+        "strNameShort" : "Small Bed",
         "strNameFriendly" : "Small Bed (Damaged)",
         "strItemDef" : "ItmBedSmallDmg",
         "strDesc" : "A fixed-frame sleeping solution. Designed for comfort in both micro-g and under-thrust applications.",
@@ -88,7 +88,7 @@
       },
       {
         "strName" : "ItmBedSmallLoose",
-        "strNameShort" : "Bed",
+        "strNameShort" : "Small Bed",
         "strNameFriendly" : "Small Bed (Loose)",
         "strItemDef" : "ItmBedSmallLoose",
         "strDesc" : "A fixed-frame sleeping solution. Designed for comfort in both micro-g and under-thrust applications.",
@@ -131,7 +131,7 @@
       },
       {
         "strName" : "ItmBedSmallDmgLoose",
-        "strNameShort" : "Bed",
+        "strNameShort" : "Small Bed",
         "strNameFriendly" : "Small Bed (Damaged, Loose)",
         "strItemDef" : "ItmBedSmallDmgLoose",
         "strDesc" : "A fixed-frame sleeping solution. Designed for comfort in both micro-g and under-thrust applications.",
