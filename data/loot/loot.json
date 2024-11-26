@@ -21,15 +21,12 @@
 		"strName": "ItmOKLGFixer",
 		"aCOs": [
 			"--ADD--=",
-			"ItmCoolerSmallOffLoose=1.0x1",
-			"ItmHeaterSmallOffLoose=1.0x1",
-			"ItmBedSmallLoose=1.0x1"
+			"ItmBedSmallLoose=0.2x1"
 		],
 		"aLoots": [
 			"--ADD--=",
-			"ItmCoolerSmallOffLoose=1.0x0.25",
-			"ItmHeaterSmallOffLoose=1.0x0.25",
-			"ItmBedSmallLoose=1.0x0.25"
+			"ItmCoolerSmallOffLoose=0.2x1",
+			"ItmHeaterSmallOffLoose=0.2x1"
 		]
 	},
 	{

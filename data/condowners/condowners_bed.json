@@ -12,6 +12,7 @@
     ],
     "aStartingConds" : [
       "IsBedSmall=1.0x1",
+	  "IsBed02=1.0x1",
       "IsHiddenInv=1.0x1",
       "IsInstalled=1.0x1",
       "IsCushion=1.0x1",
@@ -57,6 +58,7 @@
         ],
         "aStartingConds" : [
           "IsBedSmall=1.0x1",
+		  "IsBed02=1.0x1",
           "IsDamaged=1.0x1",
           "IsHiddenInv=1.0x1",
           "IsInstalled=1.0x1",
@@ -99,6 +101,7 @@
         ],
         "aStartingConds" : [
           "IsBedSmall=1.0x1",
+		  "IsBed02=1.0x1",
           "IsCushion=1.0x1",
           "IsFlexible=1.0x1.0",
           "IsAbsorbent=1.0x1.0",
@@ -142,6 +145,7 @@
         ],
         "aStartingConds" : [
           "IsBedSmall=1.0x1",
+		  "IsBed02=1.0x1",
           "IsDamaged=1.0x1",
           "IsSalvageValueHigh=1.0x1.0",
           "IsSolid=1.0x1.0",
