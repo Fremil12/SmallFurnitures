@@ -1,0 +1,240 @@
+[
+  {
+    "strName" : "ItmCoolerSmallOff",
+    "strNameShort" : "Small Cooler",
+    "strNameFriendly" : "Small Cooler (Off)",
+    "strItemDef" : "ItmCoolerSmallOff",
+    "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "GUICooler"
+    ],
+    "aStartingConds" : [
+      "IsHiddenInv=1.0x1",
+      "IsInstalled=1.0x1",
+      "IsCooler=1.0x1",
+      "IsOff=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "StatBasePrice=1.0x9360.0",
+      "StatDismantleProgressMax=1.0x125",
+      "StatInstallProgressMax=1.0x350",
+      "StatUninstallProgressMax=1.0x350",
+      "StatMass=1.0x65.0",
+      "StatDamageMax=1.0x3",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1",
+      "IsSignalable=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+      "use,0,-32",
+      "PowerA,0,0"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Cooler",
+      "Electrical"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTCoolerSmallDamage,StatDamageMax,1.0",
+      "Electrical,Electrical"
+    ],
+    "strPortraitImg"  : "ItmCoolerSmallOff",
+    "aTickers" : [ 
+      "Power"
+    ],
+    "jsonPI"            : "CoolerSmall"
+  },
+  {
+    "strName" : "ItmCoolerSmallOffLoose",
+    "strNameShort" : "Small Cooler",
+    "strItemDef" : "ItmCoolerSmallOffLoose",
+    "strNameFriendly" : "Small Cooler (Off, Loose)",
+    "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strType"    : "Item",
+    "aInteractions" : [
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsCooler=1.0x1",
+      "IsOff=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsCumbersome=1.0x1.0",
+      "StatBasePrice=1.0x9360.0",
+      "StatDismantleProgressMax=1.0x125",
+      "StatInstallProgressMax=1.0x350",
+      "StatUninstallProgressMax=1.0x350",
+      "StatMass=1.0x65.0",
+      "StatDamageMax=1.0x3",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1"
+    ],
+    "mapPoints"      : [
+      "use,0,-32"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Cooler"
+    ],
+    "mapSlotEffects" : [
+      "drag", "Blank"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTCoolerSmallLooseDamage,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmCoolerSmallOffLoose"
+  },
+  {
+    "strName" : "ItmCoolerSmallOn",
+    "strNameShort" : "Small Cooler",
+    "strNameFriendly" : "Small Cooler",
+    "strItemDef" : "ItmCoolerSmallOn",
+    "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "GUICooler"
+    ],
+    "aStartingConds" : [
+      "IsHiddenInv=1.0x1",
+      "IsInstalled=1.0x1",
+      "IsCooler=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "StatBasePrice=1.0x9360.0",
+      "IsReadyHeat=1.0x1",
+      "StatHeatArea=1.0x2.0",
+      "StatHeatVol=1.0x0.5",
+      "StatDismantleProgressMax=1.0x125",
+      "StatInstallProgressMax=1.0x350",
+      "StatUninstallProgressMax=1.0x350",
+      "StatMass=1.0x65.0",
+      "StatSolidTemp=1.0x600.0",
+      "IsPowered=1.0x1",
+      "StatDamageMax=1.0x3",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1",
+      "IsSignalable=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "aUpdateCommands" : [
+      "Heater,TIsAirtightNoHuman",
+      "Destructable,StatDamage,ACTCoolerSmallDamage,StatDamageMax,1.0",
+      "Electrical,Electrical"
+    ],
+    "mapPoints"      : [
+      "use,0,-32",
+      "PowerA,0,0",
+      "Cool,0,-16",
+      "Heat,0,16"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Cooler",
+      "Electrical"
+    ],
+    "strPortraitImg"  : "ItmCoolerSmallOff",
+    "aTickers" : [ 
+      "Power"
+    ],
+    "jsonPI"            : "CoolerSmall",
+    "strAudioEmitter": "ItmCoolerSmallOnSound"
+  },
+  {
+    "strName" : "ItmCoolerSmallDmg",
+    "strNameShort" : "Small Cooler",
+    "strNameFriendly" : "Small Cooler (Damaged)",
+    "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strItemDef" : "ItmCoolerSmallDmg",
+    "strType"    : "Item",
+    "strLoot"    : null,
+    "aInteractions" : [
+      "GUICooler"
+    ],
+    "aStartingConds" : [
+      "IsDamaged=1.0x1",
+      "IsHiddenInv=1.0x1",
+      "IsInstalled=1.0x1",
+      "IsCooler=1.0x1",
+      "IsOff=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "StatBasePrice=1.0x3340.0",
+      "StatDismantleProgressMax=1.0x25",
+      "StatInstallProgressMax=1.0x350",
+      "StatUninstallProgressMax=1.0x350",
+      "StatRepairProgressMax=1.0x1050",
+      "StatMass=1.0x65.0",
+      "StatDamageMax=1.0x7",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1",
+      "IsSignalable=1.0x1"
+    ],
+    "mapCondTolerance"       : [
+    ],
+    "mapPoints"      : [
+      "use,0,-32"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Cooler",
+      "Electrical"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTCoolerSmallDestroy,StatDamageMax,1.0",
+      "Electrical,Electrical"
+    ],
+    "strPortraitImg"  : "ItmCoolerSmallDmg",
+    "aTickers" : [ 
+    ]
+  },
+  {
+    "strName" : "ItmCoolerSmallDmgLoose",
+    "strNameShort" : "Small Cooler",
+    "strItemDef" : "ItmCoolerSmallDmgLoose",
+    "strNameFriendly" : "Small Cooler (Loose, Damaged)",
+    "strDesc" : "A Sokol cooling unit, consisting of an internal air conditioner connected to radiator panels on the external hull. Safe cabin temperatures fall between 290 and 300 degrees Kelvin. Can be linked to a thermostat.",
+    "strType"    : "Item",
+    "aInteractions" : [
+      "DropItem",
+      "PickupItem"
+    ],
+    "aStartingConds" : [
+      "IsDamaged=1.0x1",
+      "IsCooler=1.0x1",
+      "IsOff=1.0x1",
+      "IsSalvageValueHigh=1.0x1.0",
+      "IsSolid=1.0x1.0",
+      "IsCumbersome=1.0x1.0",
+      "StatBasePrice=1.0x3340.0",
+      "StatDismantleProgressMax=1.0x25",
+      "StatInstallProgressMax=1.0x350",
+      "StatUninstallProgressMax=1.0x350",
+      "StatRepairProgressMax=1.0x1050",
+      "StatMass=1.0x65.0",
+      "StatDamageMax=1.0x7",
+      "IsMechanical=1.0x1",
+      "IsCategoryHVAC=1.0x1"
+    ],
+    "mapPoints"      : [
+      "use,0,-32"
+    ],
+    "mapGUIPropMaps"  : [
+      "Panel A",
+      "Cooler"
+    ],
+    "mapSlotEffects" : [
+      "drag", "Blank"
+    ],
+    "aUpdateCommands" : [
+      "Destructable,StatDamage,ACTCoolerSmallLooseDestroy,StatDamageMax,1.0"
+    ],
+    "strPortraitImg"  : "ItmCoolerSmallOffLoose"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  { "strName" : "ItmBedSmall", "aCOs"    : [ "ItmBedSmall=1.0x1" ], "aLoots"  : [ ], "strType" : "item" },
+  { "strName" : "ItmBedSmallDmg", "aCOs"    : [ "ItmBedSmallDmg=1.0x1" ], "aLoots"  : [ ], "strType" : "item" },
+  { "strName" : "ItmBedSmallLoose", "aCOs"    : [ "ItmBedSmallLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "item" },
+  { "strName" : "ItmBedSmallDmgLoose", "aCOs"    : [ "ItmBedSmallDmgLoose=1.0x1" ], "aLoots"  : [ ], "strType" : "item" }
+]

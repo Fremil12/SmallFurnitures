@@ -1,0 +1,16 @@
+[
+  {
+    "strName" : "HeaterSmall",
+    "aInputPts"      : [
+      "PowerA",
+      "PowerB"
+    ],
+    "fAmount": 0.0011,
+    "strIntPowerOn": "MSHeaterSmallOnAllow",
+    "strIntPowerOff": "MSHeaterSmallOffAllow",
+    "strShutDownCT": "TIsConnctedSignalledOff",
+    "strUsePowerCT": "TIsReadyUsePower",
+    "strRechargeCT": null,
+    "bAllowExtPower" :  true
+  }
+]

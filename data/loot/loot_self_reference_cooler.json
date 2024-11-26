@@ -1,0 +1,26 @@
+[
+  {
+    "strName": "ItmCoolerSmallOffLoose",
+    "aCOs": [
+      "ItmCoolerSmallOffLoose=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmCoolerSmallOn",
+    "aCOs": [
+      "ItmCoolerSmallOn=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  },
+  {
+    "strName": "ItmCoolerSmallOff",
+    "aCOs": [
+      "ItmCoolerSmallOff=1.0x1"
+    ],
+    "aLoots": [],
+    "strType": "item"
+  }
+]

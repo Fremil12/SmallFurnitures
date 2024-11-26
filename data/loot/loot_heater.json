@@ -1,0 +1,7 @@
+
+[
+  { "strName" : "ACTHeaterSmallDamage", "aCOs" : [ "MSHeaterSmallDamage=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTHeaterSmallDestroy", "aCOs" : [ "MSHeaterSmallDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTHeaterSmallLooseDamage", "aCOs" : [ "MSHeaterSmallLooseDamage=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" },
+  { "strName" : "ACTHeaterSmallLooseDestroy", "aCOs" : [ "MSHeaterSmallLooseDestroy=1.0x1" ], "aLoots"  : [ ], "strType" : "interaction" }
+]

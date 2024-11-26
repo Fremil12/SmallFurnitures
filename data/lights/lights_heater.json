@@ -1,0 +1,11 @@
+[
+  {
+    "strName" : "HeaterSmallG",
+    "strColor": "AlarmGreen",
+    "strImg": "ItmLitGreen",
+    "ptPos": {
+      "x": 1,
+      "y": 13
+    }
+  }
+]
