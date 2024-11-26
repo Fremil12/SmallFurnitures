@@ -1,47 +1,41 @@
 [
 	{
-		"strName" : "ItmOKLGFurnishingsKioskInv",
-		"aCOs"    : [
-		],
-		"aLoots"  : [
+		"strName": "ItmOKLGFurnishingsKioskInv",
+		"aLoots": [
 			"--ADD--=",
 			"ItmCoolerSmallOffLoose=1.0x6",
 			"ItmHeaterSmallOffLoose=1.0x6",
 			"ItmBedSmallLoose=1.0x6"
-		],
-		"strType" : "item"
+		]
 	},
 	{
-		"strName" : "ItmOKLGSupplyKioskInv",
-		"aCOs"    : [
-		],
-		"aLoots"  : [
+		"strName": "ItmOKLGSupplyKioskInv",
+		"aLoots": [
 			"--ADD--=",
 			"ItmCoolerSmallOffLoose=1.0x6",
 			"ItmHeaterSmallOffLoose=1.0x6",
 			"ItmBedSmallLoose=1.0x6"
-		],
-		"strType" : "item"
+		]
 	},
 	{
-		"strName" : "ItmOKLGFixer",
-		"aCOs"    : [
+		"strName": "ItmOKLGFixer",
+		"aCOs": [
 			"--ADD--=",
 			"ItmCoolerSmallOffLoose=1.0x1",
 			"ItmHeaterSmallOffLoose=1.0x1",
 			"ItmBedSmallLoose=1.0x1"
 		],
-		"aLoots"  : [
-		],
-		"strType" : "item"
+		"aLoots": [
+			"--ADD--=",
+			"ItmCoolerSmallOffLoose=1.0x0.25",
+			"ItmHeaterSmallOffLoose=1.0x0.25",
+			"ItmBedSmallLoose=1.0x0.25"
+		]
 	},
 	{
-		"strName" : "ItmRandomDamagedParts",
-		"aCOs"    : [
-		],
-		"aLoots"  : [
+		"strName": "ItmRandomDamagedParts",
+		"aLoots": [
 			"1=|--ADD--=|ItmCoolerSmallDmgLoose=0.033x1|ItmHeaterSmallDmgLoose=0.033x1|ItmBedSmallDmgLoose=0.033x1"
-		],
-		"strType" : "item"
+		]
 	}
 ]

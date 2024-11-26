@@ -27,7 +27,7 @@
       "StatUninstallProgressMax=1.0x100",
       "StatRepairProgressMax=1.0x2000",
       "StatDismantleProgressMax=1.0x100",
-      "StatMass=1.0x22.0",
+      "StatMass=1.0x11.0",
       "StatDamageMax=1.0x12",
       "IsCategoryLuxuryGoods=1.0x1",
       "IsCategoryFurniture=1.0x1"
