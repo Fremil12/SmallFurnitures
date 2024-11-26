@@ -1,10 +1,10 @@
 [
   {
-    "strName": "Small Temperature mod",
+    "strName": "Small Furnitures",
     "strAuthor": "RayCoreX",
     "strModURL": "https://adamkom.hu",
     "strGameVersion": "0.14.1.2",
-    "strModVersion": "0.1",
-    "strNotes": "Small heater and cooler"
+    "strModVersion": "3.2.0",
+    "strNotes": "This mod adds a small heater, cooler and bed"
   }
 ]

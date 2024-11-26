@@ -4,15 +4,17 @@
 
 ## Furniture included in this mod:
 - 2x6 Comfortable Bed
-## Furniture planned:
 - 1x1+3 Cooler
 - 2x1 Heater
+## Furniture planned:
+- TBD
 
 Source: ([github](https://github.com/Fremil12/SmallFurnitures))
 
 ## Versions:
 - [1.0.8](https://github.com/Fremil12/SmallFurnitures/releases/tag/v1.0.8)  (First working version)
 - [2.0.8](https://github.com/Fremil12/SmallFurnitures/releases/tag/v2.0.8)  (FFU-BR dependency)
+- [3.2.0](https://github.com/Fremil12/SmallFurnitures/releases/tag/v1.0.8)  (Cooler and heater addition)
 
 ## Installation guide for 1.0.8
 ### Other mods that change loot.json is incompatible, use 2.0.8+
