@@ -1,0 +1,112 @@
+[
+  {
+    "strName" : "ItmTable01",
+    "strImg"  : "ItmTable01",
+    "strImgNorm"  : "ItmTable01n",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintRust",
+    "fDmgComplexity" : 800,
+    "fZScale"  : 0.4,
+    "nCols"  : 1,
+    "aLights"        : [
+    ],
+    "aSocketAdds"    : [
+      "TILFixtureAdds",
+      "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank", "Blank","Blank"
+    ]
+  },
+  {
+    "strName" : "ItmTable01Loose",
+    "strImg"  : "ItmTable01Loose",
+    "strImgNorm"  : "ItmTable01Loosen",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintRust",
+    "fDmgComplexity" : 800,
+    "fZScale"  : 0.4,
+    "nCols"  : 1,
+    "aLights"        : [
+    ],
+    "aSocketAdds"    : [
+      "TILFixtureAdds",
+      "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank", "Blank","Blank"
+    ]
+  },
+  {
+    "strName" : "ItmTable02",
+    "strImg"  : "ItmTable02",
+    "strImgNorm"  : "ItmTable02n",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintDefault",
+    "fZScale"  : 0.4,
+    "nCols"  : 1,
+    "aLights"        : [
+    ],
+    "aSocketAdds"    : [
+      "TILFixtureAdds",
+      "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank", "Blank","Blank"
+    ]
+  },
+  {
+    "strName" : "ItmTable02Loose",
+    "strImg"  : "ItmTable02Loose",
+    "strImgNorm"  : "ItmTable02Loosen",
+    "strImgDamaged" : "",
+    "strDmgColor" : "DamageTintDefault",
+    "fZScale"  : 0.4,
+    "nCols"  : 1,
+    "aLights"        : [
+    ],
+    "aSocketAdds"    : [
+      "TILFixtureAdds",
+      "TILFixtureAdds"
+    ],
+    "aSocketForbids"    : [
+      "Blank", "Blank", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "TILObstruction", "Blank",
+      "Blank", "Blank", "Blank"
+    ],
+    "aSocketReqs"    : [
+      "Blank", "Blank", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank","TILFloor", "Blank",
+      "Blank", "Blank","Blank"
+    ]
+  }
+]

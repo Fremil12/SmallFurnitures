@@ -1,0 +1,7 @@
+[
+    { "strName" : "ItmTableSmall01", "aCOs" : [ "ItmTable01=1.0x1" ], "aLoots"  : [ ], "bSuppress" : true, "bNested" : true, "strType" : "item" },  
+    { "strName" : "ItmTableSmall01Loose", "aCOs" : [ "ItmTable01Loose=1.0x1" ], "aLoots"  : [ ], "bSuppress" : true, "bNested" : true, "strType" : "item" },  
+    { "strName" : "ItmTableSmall02", "aCOs" : [ "ItmTable02=1.0x1" ], "aLoots"  : [ ], "bSuppress" : true, "bNested" : true, "strType" : "item" },  
+    { "strName" : "ItmTableSmall02Loose", "aCOs" : [ "ItmTable02Loose=1.0x1" ], "aLoots"  : [ ], "bSuppress" : true, "bNested" : true, "strType" : "item" }
+
+]

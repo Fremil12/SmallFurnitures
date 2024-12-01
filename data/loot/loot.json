@@ -5,7 +5,9 @@
 			"--ADD--=",
 			"ItmCoolerSmallOffLoose=1.0x6",
 			"ItmHeaterSmallOffLoose=1.0x6",
-			"ItmBedSmallLoose=1.0x6"
+			"ItmBedSmallLoose=1.0x6",
+			"ItmTableSmall01Loose=1.0x6",
+			"ItmTableSmall02Loose=1.0x6"
 		]
 	},
 	{
@@ -14,7 +16,9 @@
 			"--ADD--=",
 			"ItmCoolerSmallOffLoose=1.0x6",
 			"ItmHeaterSmallOffLoose=1.0x6",
-			"ItmBedSmallLoose=1.0x6"
+			"ItmBedSmallLoose=1.0x6",
+			"ItmTableSmall01Loose=1.0x6",
+			"ItmTableSmall02Loose=1.0x6"
 		]
 	},
 	{
@@ -26,13 +30,15 @@
 		"aLoots": [
 			"--ADD--=",
 			"ItmCoolerSmallOffLoose=0.2x1",
-			"ItmHeaterSmallOffLoose=0.2x1"
+			"ItmHeaterSmallOffLoose=0.2x1",
+			"ItmTableSmall01Loose=1.0x6",
+			"ItmTableSmall02Loose=1.0x6"
 		]
 	},
 	{
 		"strName": "ItmRandomDamagedParts",
 		"aLoots": [
-			"1=|--ADD--=|ItmCoolerSmallDmgLoose=0.033x1|ItmHeaterSmallDmgLoose=0.033x1|ItmBedSmallDmgLoose=0.033x1"
+			"1=|--ADD--=|ItmCoolerSmallDmgLoose=0.033x1|ItmHeaterSmallDmgLoose=0.033x1|ItmBedSmallDmgLoose=0.033x1|ItmTableSmall01Loose=0.033x1|ItmTableSmall02Loose=0.033x1"
 		]
 	}
 ]

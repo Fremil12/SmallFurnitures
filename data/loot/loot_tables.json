@@ -1,0 +1,4 @@
+[
+    { "strName" : "CNDOLTable01Reserved", "aCOs" : [ "IsReserved=1.0x1.0" ], "aLoots" : [], "strType" : "condition" }
+    
+]

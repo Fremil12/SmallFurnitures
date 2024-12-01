@@ -1,0 +1,155 @@
+[
+    {
+        "strName" : "ItmTableSmall01",
+        "strNameShort" : "Small Table",
+        "strNameFriendly" : "Small Bar Table",
+        "strItemDef" : "ItmTableSmall01",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "SOCTableTalkStart"
+        ],
+        "aStartingConds" : [
+          "IsHiddenInv=1.0x1",
+          "IsInstalled=1.0x1",
+          "IsNonHighlightable=1.0x1",
+          "IsSalvageValueHigh=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsTable=1.0x1.0",
+          "IsWhite=1.0x1",
+          "IsCumbersome=1.0x1.0",
+          "StatBasePrice=1.0x113.00",
+          "StatInstallProgressMax=1.0x100",
+          "StatUninstallProgressMax=1.0x100",
+          "StatMass=1.0x10.0",
+          "StatDamageMax=1.0x5",
+          "IsCategoryFurniture=1.0x1"
+        ],
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+          "use,0,0"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : null,
+        "strPortraitImg"  : "ItmTableSmall01",
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmTableSmall01Loose",
+        "strNameShort" : "Small Table",
+        "strNameFriendly" : "Small Bar Table (Loose)",
+        "strItemDef" : "ItmTableSmall01Loose",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "SOCTableTalkStart",
+          "DropItem",
+          "PickupItem"
+        ],
+        "aStartingConds" : [
+          "IsNonHighlightable=1.0x1",
+          "IsSalvageValueHigh=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsTable=1.0x1.0",
+          "IsWhite=1.0x1",
+          "IsCumbersome=1.0x1.0",
+          "StatBasePrice=1.0x113.00",
+          "StatInstallProgressMax=1.0x100",
+          "StatUninstallProgressMax=1.0x100",
+          "StatMass=1.0x10.0",
+          "StatDamageMax=1.0x50",
+          "IsCategoryFurniture=1.0x1"
+        ],
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+          "use,0,0"
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+        ],
+        "mapSlotEffects" : [
+          "drag", "Blank"
+        ],
+        "mapGUIPropMaps"  : null,
+        "strPortraitImg"  : "ItmTableSmall01Loose",
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmTableSmall02",
+        "strNameShort" : "Small Table",
+        "strNameFriendly" : "Small Dining Table",
+        "strItemDef" : "ItmTableSmall02",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+        ],
+        "aStartingConds" : [
+          "IsHiddenInv=1.0x1",
+          "IsInstalled=1.0x1",
+          "IsNonHighlightable=1.0x1",
+          "IsSalvageValueHigh=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsTable=1.0x1.0",
+          "IsBrown=1.0x1",
+          "StatBasePrice=1.0x32.00",
+          "StatInstallProgressMax=1.0x100",
+          "StatUninstallProgressMax=1.0x100",
+          "StatMass=1.0x10.0",
+          "StatDamageMax=1.0x5",
+          "IsCategoryFurniture=1.0x1"
+        ],
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+        ],
+        "mapGUIPropMaps"  : null,
+        "strPortraitImg"  : "ItmTableSmall02",
+        "jsonPI"            : null
+      },
+      {
+        "strName" : "ItmTableSmall02Loose",
+        "strNameShort" : "Small Table",
+        "strNameFriendly" : "Small Dining Table (Loose)",
+        "strItemDef" : "ItmTableSmall02Loose",
+        "strType"    : "Item",
+        "strLoot"    : null,
+        "aInteractions" : [
+          "DropItem",
+          "PickupItem"
+        ],
+        "aStartingConds" : [
+          "IsNonHighlightable=1.0x1",
+          "IsSalvageValueHigh=1.0x1.0",
+          "IsSolid=1.0x1.0",
+          "IsTable=1.0x1.0",
+          "IsBrown=1.0x1",
+          "IsCumbersome=1.0x1.0",
+          "StatBasePrice=1.0x32.00",
+          "StatInstallProgressMax=1.0x100",
+          "StatUninstallProgressMax=1.0x100",
+          "StatMass=1.0x10.0",
+          "StatDamageMax=1.0x5",
+          "IsCategoryFurniture=1.0x1"
+        ],
+        "mapCondTolerance"       : [
+        ],
+        "mapPoints"      : [
+        ],
+        "aUpdateCommands" : [
+          "Destructable,StatDamage,ACTDefaultDestroy,StatDamageMax,1.0"
+        ],
+        "mapSlotEffects" : [
+          "drag", "Blank"
+        ],
+        "mapGUIPropMaps"  : null,
+        "strPortraitImg"  : "ItmTableSmall02Loose",
+        "jsonPI"            : null
+      }
+]
